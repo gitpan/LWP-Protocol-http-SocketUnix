@@ -1,4 +1,4 @@
-LWP-Protocol-http-SocketUnix version 0.01
+LWP-Protocol-http-SocketUnix version 0.02
 ====================================
 
 LWP::Protocol::http::SocketUnix enables you to speak HTTP through UNIX sockets.

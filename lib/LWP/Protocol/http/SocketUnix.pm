@@ -8,7 +8,7 @@ use LWP::Protocol::http;
 
 @ISA = qw( LWP::Protocol::http );
 
-$VERSION = 0.01;
+$VERSION = 0.02;
 
 sub _new_socket {
 	my ($self, $path, $timeout) = @_;
